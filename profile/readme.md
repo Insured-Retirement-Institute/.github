@@ -6,8 +6,6 @@ IRI Connect is an open-source framework for API standardization across the annui
 
 OpenAPI definitions will be able to be found on [SwaggerHub](https://wwww.swaggerhub.com).
 
-Specifications can be downloaded directly from the [repository](/Specifications).
-
 ## Current specifications
 The Producer CanSell and ActivityStatus APIs are not and will not be included on this platform until certain open questions are resolved. Users will be notified if and when these APIs are added to the platform.
 <!-- This section is commented out and won't show up -->
