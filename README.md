@@ -4,9 +4,9 @@ IRI Standard Connect is an open-source framework for API standardization across 
 
 ## Get started
 
-OpenAPI definitions can be found on [SwaggerHub](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0).
+OpenAPI definitions are coming soon and will be able to be found on [SwaggerHub](https://swaggerhub.com).
 
-Specifications can be downloaded directly from the [repository](/Specifications).
+Specifications can be downloaded directly from the [repository](https://github.com/Insured-Retirement-Institute/Producer-Training).
 
 ## Current specifications
 Each specification will have it's own repository. 
