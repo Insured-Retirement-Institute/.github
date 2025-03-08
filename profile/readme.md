@@ -23,9 +23,9 @@ We are currently in the process of standing up [SwaggerHub](https://wwww.swagger
 - Replacements | [[Definition]](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0#/Policy%20Replacements%20(under%20construction)) [[Download]](/Specifications/Replacements)
 -->
 ## Specifications under development
-- [[Producer Training]](https://github.com/Insured-Retirement-Institute/Producer-Training)
+- [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
-- [[Hackathon logistics]](https://github.com/Insured-Retirement-Institute/Hackathon)
+- [Hackathon logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
 
 ## Goverance of the Standards 
 
