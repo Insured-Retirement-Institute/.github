@@ -29,4 +29,4 @@ We are currently in the process of standing up [SwaggerHub](https://wwww.swagger
 
 ## Goverance of the standards, reporting security issues and bugs, and code of conduct
 
-Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues of the repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for governance of standards, data dictionary, and the code of conduct.
+Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for governance of standards, data dictionary, and the code of conduct.
