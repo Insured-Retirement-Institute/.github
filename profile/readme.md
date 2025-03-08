@@ -25,7 +25,7 @@ We are currently in the process of standing up [SwaggerHub](https://wwww.swagger
 ## Specifications under development
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
-- [Hackathon logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
+- [Hackathon Logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
 
 ## Goverance of the Standards 
 
