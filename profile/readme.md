@@ -31,7 +31,7 @@ Contact Kdease@irionline if you want to submit a standard for consideration or j
 
 ## Reporting security issues and bugs, and code of conduct
 
-Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for governance of standards, data dictionary, and the code of conduct.
+Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the code of conduct.
 
 ## Archive
 - [Hackathon Logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
