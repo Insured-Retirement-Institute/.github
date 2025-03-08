@@ -27,18 +27,6 @@ We are currently in the process of standing up [SwaggerHub](https://wwww.swagger
 - Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
 - [Hackathon Logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
 
-## Goverance of the Standards 
+## Goverance of the standards, reporting security issues and bugs, and code of conduct
 
-`coming soon` The Platform Steering committee meeting is scheduled for 1/10. Contact Kdease@irionline if you want to join. 
-
-## How to engage, contribute, and give feedback
-
-`coming soon`
-
-## Reporting security issues and bugs
-
-`coming soon`
-
-## Code of conduct
-
-`coming soon`
+See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide)
