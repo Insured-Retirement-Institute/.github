@@ -23,7 +23,7 @@ We are currently in the process of standing up [SwaggerHub](https://wwww.swagger
 - Replacements | [[Definition]](https://app.swaggerhub.com/apis/curtislawhorn/IRI-APIs/1.0.0#/Policy%20Replacements%20(under%20construction)) [[Download]](/Specifications/Replacements)
 -->
 ## Specifications under development
-- Producer Training | Definition [[Download]](/Producer-Training)
+- Producer Training | Definition [[Download]](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
 - Hackathon logistics | [[Definition]](https://github.com/Insured-Retirement-Institute/Hackathon)
 
