@@ -19,7 +19,17 @@ We are currently in the process of standing up [SwaggerHub](https://wwww.swagger
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
 
-## Goverance of the standards, reporting security issues and bugs, and code of conduct
+## Goverance of the Standards 
+'![image](https://github.com/user-attachments/assets/2dab2fdd-9d25-47e4-8348-a7e568176d66)
+
+`![image](https://github.com/user-attachments/assets/7aea5d11-e6f0-4df6-9617-352472297add)
+Contact Kdease@irionline if you want to submit a standard for consideration or join any open discussion.
+
+## How to engage, contribute, and give feedback
+
+`![image](https://github.com/user-attachments/assets/ffedfd24-f0b3-4a6c-b624-c7ea3344e2cf)
+
+## Reporting security issues and bugs, and code of conduct
 
 Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for governance of standards, data dictionary, and the code of conduct.
 
