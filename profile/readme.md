@@ -19,7 +19,7 @@ We are currently in the process of standing up [SwaggerHub](https://wwww.swagger
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
 
-## Governance of the Standards 
+## Standards governance 
 ![image](https://github.com/user-attachments/assets/2dab2fdd-9d25-47e4-8348-a7e568176d66)
 
 ![image](https://github.com/user-attachments/assets/7aea5d11-e6f0-4df6-9617-352472297add)
