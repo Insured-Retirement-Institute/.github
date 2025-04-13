@@ -13,7 +13,7 @@ The IRI's strength comes from its community—dedicated individuals who invest t
 ## Current specifications
 The Producer CanSell and ActivityStatus APIs are not and will not be included on this platform until certain open questions are resolved. Users will be notified if and when these APIs are added to the platform.
 
-We are currently in the process of standing up a [GitHub Pages]([https://wwww.swaggerhub.com](https://insured-retirement-institute.github.io/Style-Guide/) to host OpenAPI definitions...THIS IS CURRENTLY A WORK IN PROGRESS AND IS NOT AN OFFICIAL PUBLICATION...check back often for updates.
+We are currently in the process of standing up a [GitHub Pages]([https://insured-retirement-institute.github.io/Style-Guide/]) to host OpenAPI definitions...THIS IS CURRENTLY A WORK IN PROGRESS AND IS NOT AN OFFICIAL PUBLICATION...check back often for updates.
 
 ## Specifications under development
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
