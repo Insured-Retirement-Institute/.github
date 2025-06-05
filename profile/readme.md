@@ -4,6 +4,14 @@ Are you passionate about driving technology, innovation, and collaboration for t
 
 IRI is dedicated to fostering the creation of exceptional experiences for the insurance industry. Industry leaders participate to implement strategies that transform both financial professional and consumer experiences. This community fosters adopting Digital First for Annuities standards to unlock business growth opportunities and mitigate future risks. 
 
+IRI welcomes and appreciates your contributions to our Digital-First Standards initiative, open to industry participants for API standardization across the annuity insurance industry. To help us respect the intellectual property rights of others, please adhere to the following guidelines:
+1.	Original Work: Ensure that all code, documentation, and other materials you submit are your original work. Do not include or use any content that is owned by others without proper authorization.
+2.	No Unauthorized Use of Intellectual Property: Do not submit any material that infringes on the intellectual property rights of others, including but not limited to copyrights, trademarks, patents, or trade secrets.
+3.	Proper Attribution: If your submission includes third-party content that is permissible to use under an open-source license, provide proper attribution and comply with the terms of the license.
+4.	Compliance with Licenses: Ensure that your contributions comply with the licensing terms of any third-party software or libraries you use.
+5.	Clear Documentation: Provide clear and thorough documentation for your submissions, including any necessary disclaimers or notices regarding third-party content.
+By submitting your contributions, you agree to these guidelines and warrant that your submission does not violate any intellectual property rights.
+
 ## Get started
 
 We're still getting started, so we're a bit under construction at the momemnt. Please check back often for updates.
