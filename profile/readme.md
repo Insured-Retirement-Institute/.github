@@ -10,6 +10,7 @@ IRI welcomes and appreciates your contributions to our Digital-First Standards i
 3.	Proper Attribution: If your submission includes third-party content that is permissible to use under an open-source license, provide proper attribution and comply with the terms of the license.
 4.	Compliance with Licenses: Ensure that your contributions comply with the licensing terms of any third-party software or libraries you use.
 5.	Clear Documentation: Provide clear and thorough documentation for your submissions, including any necessary disclaimers or notices regarding third-party content.
+
 By submitting your contributions, you agree to these guidelines and warrant that your submission does not violate any intellectual property rights.
 
 ## Get started
