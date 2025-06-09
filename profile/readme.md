@@ -15,8 +15,6 @@ By submitting your contributions, you agree to these guidelines and warrant that
 
 ## Get started
 
-We're still getting started, so we're a bit under construction at the momemnt. Please check back often for updates.
-
 The IRI's strength comes from its community—dedicated individuals who invest their time and expertise to drive meaningful change. Whether you're a business stakeholder or technology developer, you are welcome to get invovled, contribute code, fix bugs, write documentation, and more.
 
 ## Current specifications
@@ -31,14 +29,21 @@ We are currently in the process of standing up a [GitHub Pages](https://insured-
 - Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
 
 ## Standards governance 
-![image](https://github.com/user-attachments/assets/2dab2fdd-9d25-47e4-8348-a7e568176d66)
+Governance Document (DRAFT - Pending final approval):https://www.irionline.org/member-programs/operations-technology/committee-hub/governance/
+![image](https://github.com/user-attachments/assets/d5853c09-e8df-4cd5-bfa1-d31409901bbc)
 
-![image](https://github.com/user-attachments/assets/7aea5d11-e6f0-4df6-9617-352472297add)
-Contact Kdease@irionline if you want to submit a standard for consideration or join any open discussion.
+![image](https://github.com/user-attachments/assets/f25c4f5a-5ebc-4800-92dc-7ae6e7cf9893)
+
 
 ## How to engage, contribute, and give feedback
+Contact HPikus@irionline if you want to submit a standard for consideration or join any open discussion.
+![image](https://github.com/user-attachments/assets/a4d45261-b008-4342-b0a8-5863bfc6af87)
 
-![image](https://github.com/user-attachments/assets/ffedfd24-f0b3-4a6c-b624-c7ea3344e2cf)
+![image](https://github.com/user-attachments/assets/88aedb5f-7208-402e-8157-04d6b41e4664)
+
+![image](https://github.com/user-attachments/assets/71209449-2379-4de6-8c08-52f86fe43f5a)
+
+
 
 ## Reporting security issues and bugs, and code of conduct
 
