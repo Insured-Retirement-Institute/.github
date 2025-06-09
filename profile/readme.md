@@ -25,7 +25,7 @@ The Producer CanSell and ActivityStatus APIs are not and will not be included on
 We are currently in the process of standing up a [GitHub Pages](https://insured-retirement-institute.github.io/Style-Guide/) to host OpenAPI definitions...THIS IS CURRENTLY A WORK IN PROGRESS AND IS NOT AN OFFICIAL PUBLICATION...check back often for updates.
 
 ## Specifications under development
-- [Pending Case](https://github.com/Insured-Retirement-Institute/Pending-Case)
+- [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
