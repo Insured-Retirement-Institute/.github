@@ -47,15 +47,15 @@ Contact Kdease@irionline if you want to submit a standard for consideration or j
 
 ## How to engage, contribute, and give feedback
 
-![image](https://github.com/user-attachments/assets/ffedfd24-f0b3-4a6c-b624-c7ea3344e2cf)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/97110f5f-fc09-4b6a-a455-75c710cc3c75" />
 
 ## Reporting security issues and bugs, and code of conduct
 
-Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the [code of conduct](https://github.com/Insured-Retirement-Institute/Style-Guide/blob/main/CODE_OF_CONDUCT.md). Change requests should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
+Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the [code of conduct](https://github.com/Insured-Retirement-Institute/Style-Guide/blob/main/CODE_OF_CONDUCT.md). Change requests should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
 
 ## Versioning
 
-Versioning will follow the format major.minor.patch. Link to list of firm's and the versions they support.
+Versioning will follow the format major.minor.patch. Follow this link to a list of firm's and the versions they support.
 
 ## Archive
 - [Hackathon Logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
