@@ -47,7 +47,12 @@ Contact Kdease@irionline if you want to submit a standard for consideration or j
 
 ## How to engage, contribute, and give feedback
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/97110f5f-fc09-4b6a-a455-75c710cc3c75" />
+To add or update your firm's status:
+
+1. Fork this repo
+2. Navigate to the appropriate adopters.yml file
+3. Add your info (see format below)
+4. Submit a pull request
 
 ## Reporting security issues and bugs, and code of conduct
 
