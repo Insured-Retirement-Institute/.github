@@ -24,8 +24,10 @@ The Producer CanSell and ActivityStatus APIs are not and will not be included on
 
 All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
 
-## Specifications under development
+## Specifications
+Active
 - [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
+Under Development
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
