@@ -27,6 +27,7 @@ All standards have a corresponding repository where work in progress documentati
 ## Specifications
 Active
 - [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
+
 Under Development
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
