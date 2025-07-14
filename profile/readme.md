@@ -47,7 +47,7 @@ Contact Kdease@irionline if you want to submit a standard for consideration or j
 
 ## How to engage, contribute, and give feedback
 
-To add or update your firm's status:
+Anyone can submit an edit following the below process. 
 
 1. Fork this repo
 2. Navigate to the appropriate adopters.yml file
@@ -61,6 +61,10 @@ Issues and bugs can be reported directly within the issues tab of each repositor
 ## Versioning
 
 Versioning will follow the format major.minor.patch. Follow this link to a list of firm's and the versions they support.
+Each version will follow the naming convention Major.Minor.Patch
+- Major: Add incompatible API changes
+- Minor: Add functionality in a backward compatible manner
+- Patch: Backward compatible bug fixes
 
 ## Archive
 - [Hackathon Logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
