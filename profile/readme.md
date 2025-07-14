@@ -39,6 +39,15 @@ Under Development
 - [Producer Inquiry](https://github.com/Insured-Retirement-Institute/Producer-Inquiry)
 
 ## Standards governance 
+
+A request for a new standard must be submitted via a Business Case Template to hpikus@irionline.org and kdease@irionline.org. 
+
+The Business Case must include: 
+- Experience Outcomes
+- Measures of Success
+- Use Cases
+- Points of INtegration
+- Firms needed to be able to send and receive the data (Distributor, Carrier, Solution Provider...)
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c1a970d4-f101-4805-b86e-29633cf116a6" />
 
 <img width="1545" height="573" alt="image" src="https://github.com/user-attachments/assets/db4ddcda-2f8d-48c3-a7d6-3d6f35099c25" />
@@ -47,8 +56,9 @@ Contact Kdease@irionline if you want to submit a standard for consideration or j
 
 ## How to engage, contribute, and give feedback
 
-Anyone can submit an edit following the below process. 
+Patches, and Minor and Major edits will be handled with versioning.  Minor and Major edits and will go through the Strategy Implementation Committee for awareness, consideration, and if the business case is approved the working group will manage the request and it will follow the existing governance process. Patches will be evaluated within thge Governance Subcommittee and brought to the Strategy Implementation Committee if broader discussion is needed.
 
+Anyone can submit an edit following the below process.
 1. Fork this repo
 2. Navigate to the appropriate adopters.yml file
 3. Add your info (see format below)
