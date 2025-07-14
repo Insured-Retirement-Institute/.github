@@ -22,11 +22,13 @@ The IRI's strength comes from its community—dedicated individuals who invest t
 ## Current specifications
 The Producer CanSell and ActivityStatus APIs are not and will not be included on this platform until certain open questions are resolved. Users will be notified if and when these APIs are added to the platform.
 
-All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
+OpenAPI definitions can be found on the [GitHub Page](https://insured-retirement-institute.github.io/Style-Guide/){:target="_blank"} of the Style Guide repository.
 
-## Specifications
 Active
 - [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
+
+## Specifications under development
+All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
 
 Under Development
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
