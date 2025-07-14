@@ -22,18 +22,22 @@ The IRI's strength comes from its community—dedicated individuals who invest t
 ## Current specifications
 The Producer CanSell and ActivityStatus APIs are not and will not be included on this platform until certain open questions are resolved. Users will be notified if and when these APIs are added to the platform.
 
-We are currently in the process of standing up a [GitHub Pages](https://insured-retirement-institute.github.io/Style-Guide/) to host OpenAPI definitions...THIS IS CURRENTLY A WORK IN PROGRESS AND IS NOT AN OFFICIAL PUBLICATION...check back often for updates.
+All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
 
 ## Specifications under development
 - [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
-- Create a new repo for each standard. Contact Kdease@irionline.org to update the README.
+- [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
+- [Visualizing Annuity Income](https://github.com/Insured-Retirement-Institute/Visualizing-Annuity-Income)
+- [Digital Submission Only](https://github.com/Insured-Retirement-Institute/Digital-Submission-Only)
+- [Producer Inquiry](https://github.com/Insured-Retirement-Institute/Producer-Inquiry)
 
 ## Standards governance 
-![image](https://github.com/user-attachments/assets/2dab2fdd-9d25-47e4-8348-a7e568176d66)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c1a970d4-f101-4805-b86e-29633cf116a6" />
 
-![image](https://github.com/user-attachments/assets/7aea5d11-e6f0-4df6-9617-352472297add)
+<img width="1545" height="573" alt="image" src="https://github.com/user-attachments/assets/db4ddcda-2f8d-48c3-a7d6-3d6f35099c25" />
+
 Contact Kdease@irionline if you want to submit a standard for consideration or join any open discussion.
 
 ## How to engage, contribute, and give feedback
@@ -43,6 +47,10 @@ Contact Kdease@irionline if you want to submit a standard for consideration or j
 ## Reporting security issues and bugs, and code of conduct
 
 Security issues and bugs should be reported directly to Katherine Dease kdease@irionline.org. Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the [code of conduct](https://github.com/Insured-Retirement-Institute/Style-Guide/blob/main/CODE_OF_CONDUCT.md). Change requests should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
+
+## Versioning
+
+Versioning will follow the format major.minor.patch. Link to list of firm's and the versions they support.
 
 ## Archive
 - [Hackathon Logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
