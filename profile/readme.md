@@ -24,6 +24,8 @@ The Producer CanSell and ActivityStatus APIs are not and will not be included on
 
 OpenAPI definitions can be found on the [GitHub Page](https://insured-retirement-institute.github.io/Style-Guide/) of the [Style Guide repository](https://github.com/Insured-Retirement-Institute/Style-Guide).
 
+Check out firm's implemenation plans and version of the Standards in the [Registry](https://github.com/Insured-Retirement-Institute/Standard-Registry)
+
 Active
 - [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
 
@@ -70,7 +72,7 @@ Issues and bugs can be reported directly within the issues tab of each repositor
 
 ## Versioning
 
-Versioning will follow the format major.minor.patch. Follow this link to a list of firm's and the versions they support.
+Versioning will follow the format major.minor.patch. 
 Each version will follow the naming convention Major.Minor.Patch
 - Major: Add incompatible API changes
 - Minor: Add functionality in a backward compatible manner
