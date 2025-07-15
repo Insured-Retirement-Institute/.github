@@ -19,20 +19,19 @@ We're still getting started, so we're a bit under construction at the momemnt. P
 
 The IRI's strength comes from its community—dedicated individuals who invest their time and expertise to drive meaningful change. Whether you're a business stakeholder or technology developer, you are welcome to get invovled, contribute code, fix bugs, write documentation, and more.
 
-## Current specifications
+## Specifications
 The Producer CanSell and ActivityStatus APIs are not and will not be included on this platform until certain open questions are resolved. Users will be notified if and when these APIs are added to the platform.
 
 OpenAPI definitions can be found on the [GitHub Page](https://insured-retirement-institute.github.io/Style-Guide/) of the [Style Guide repository](https://github.com/Insured-Retirement-Institute/Style-Guide).
 
-Check out firm's implemenation plans and version of the Standards in the [Registry](https://github.com/Insured-Retirement-Institute/Standard-Registry)
+Check out firm's implemenation plans and version of the Standards in the [Registry](https://insured-retirement-institute.github.io/Standard-Registry/).
 
-Active
-- [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
-
-## Specifications under development
 All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
 
-Under Development
+### Active Specifications
+- [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
+
+### Specifications under development
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
