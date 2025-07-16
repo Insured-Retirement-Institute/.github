@@ -1,10 +1,10 @@
-# Welcome to the IRI!
+# Welcome to the IRI Digital First for Annuity Standards!
 
-Are you passionate about driving technology, innovation, and collaboration for the insurance industry? Then welcome to the official GitHub page of the Insured Retirement Institute! We're exicited to be building an open-source framework for API standardization across the annuity insurance industry, and welcome you joining us on that journey.
+Are you passionate about driving technology, innovation, and collaboration for the insurance industry? Then welcome to the official GitHub page of the Insured Retirement Institute's Digital First for Annuity Standards! We're exicited to be building an open-source framework for API standardization across the annuity insurance industry, and welcome you joining us on that journey.
 
 IRI is dedicated to fostering the creation of exceptional experiences for the insurance industry. Industry leaders participate to implement strategies that transform both financial professional and consumer experiences. This community fosters adopting Digital First for Annuities standards to unlock business growth opportunities and mitigate future risks. 
 
-IRI welcomes and appreciates your contributions to our Digital-First Standards initiative, open to industry participants for API standardization across the annuity insurance industry. To help us respect the intellectual property rights of others, please adhere to the following guidelines:
+IRI welcomes and appreciates your contributions to our Digital-First for Annuity Standards initiative, open to industry participants for API standardization across the annuity insurance industry. To help us respect the intellectual property rights of others, please adhere to the following guidelines:
 1.	Original Work: Ensure that all code, documentation, and other materials you submit are your original work. Do not include or use any content that is owned by others without proper authorization.
 2.	No Unauthorized Use of Intellectual Property: Do not submit any material that infringes on the intellectual property rights of others, including but not limited to copyrights, trademarks, patents, or trade secrets.
 3.	Proper Attribution: If your submission includes third-party content that is permissible to use under an open-source license, provide proper attribution and comply with the terms of the license.
@@ -15,18 +15,19 @@ By submitting your contributions, you agree to these guidelines and warrant that
 
 ## Get started
 
-We're still getting started, so we're a bit under construction at the momemnt. Please check back often for updates.
+We're only a few months old and just getting started. Several standards are in discussion right now. Please check back often for updates.
 
-The IRI's strength comes from its community—dedicated individuals who invest their time and expertise to drive meaningful change. Whether you're a business stakeholder or technology developer, you are welcome to get invovled, contribute code, fix bugs, write documentation, and more.
+The IRI's Digital First for Annuity standards strength comes from its community—dedicated individuals who invest their time and expertise to drive meaningful change. Whether you're a business stakeholder or technology developer, you are welcome to get invovled, contribute code, fix bugs, write documentation, and more.
 
 ## Specifications
-The Producer CanSell and ActivityStatus APIs are not and will not be included on this platform until certain open questions are resolved. Users will be notified if and when these APIs are added to the platform.
 
 OpenAPI definitions can be found on the [GitHub Page](https://insured-retirement-institute.github.io/Style-Guide/) of the [Style Guide repository](https://github.com/Insured-Retirement-Institute/Style-Guide).
 
 Check out firm's implemenation plans and version of the Standards in the [Registry](https://insured-retirement-institute.github.io/Standard-Registry/).
 
 All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
+
+(The Producer CanSell and ActivityStatus APIs are not and will not be included on this platform until certain open questions are resolved. Users will be notified if and when these APIs are added to the platform.)
 
 ### Active Specifications
 - [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
@@ -41,13 +42,13 @@ All standards have a corresponding repository where work in progress documentati
 
 ## Standards governance 
 
-A request for a new standard must be submitted via a Business Case Template to hpikus@irionline.org and kdease@irionline.org. 
+A request for a new standard or an update to the standard that will result in a minor or major revision must be submitted via a Business Case Template to hpikus@irionline.org and kdease@irionline.org. 
 
 The Business Case must include: 
 - Experience Outcomes
 - Measures of Success
 - Use Cases
-- Points of INtegration
+- Points of Integration
 - Firms needed to be able to send and receive the data (Distributor, Carrier, Solution Provider...)
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c1a970d4-f101-4805-b86e-29633cf116a6" />
 
@@ -67,7 +68,7 @@ Anyone can submit an edit following the below process.
 
 ## Reporting security issues and bugs, and code of conduct
 
-Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the [code of conduct](https://github.com/Insured-Retirement-Institute/Style-Guide/blob/main/CODE_OF_CONDUCT.md). Change requests should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
+Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the [code of conduct](https://github.com/Insured-Retirement-Institute/Style-Guide/blob/main/CODE_OF_CONDUCT.md). Change requests, both minor and major revisions should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
 
 ## Versioning
 
