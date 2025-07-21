@@ -27,10 +27,8 @@ Check out firm's implemenation plans and version of the Standards in the [Regist
 
 All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
 
-(The Producer CanSell and ActivityStatus APIs are not and will not be included on this platform until certain open questions are resolved. Users will be notified if and when these APIs are added to the platform.)
-
 ### Active Specifications
-- [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status)
+- [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status). This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
 
 ### Specifications under development
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
@@ -38,7 +36,7 @@ All standards have a corresponding repository where work in progress documentati
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [Visualizing Annuity Income](https://github.com/Insured-Retirement-Institute/Visualizing-Annuity-Income)
 - [Digital Submission Only](https://github.com/Insured-Retirement-Institute/Digital-Submission-Only)
-- [Producer Inquiry](https://github.com/Insured-Retirement-Institute/Producer-Inquiry)
+- [Producer Inquiry](https://github.com/Insured-Retirement-Institute/Producer-Inquiry). This open standard is an alternative to the legacy CanSellAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy CanSellAPI specs.
 
 ## Standards governance 
 
