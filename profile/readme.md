@@ -35,7 +35,6 @@ All standards have a corresponding repository where work in progress documentati
 - [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [Visualizing Annuity Income](https://github.com/Insured-Retirement-Institute/Visualizing-Annuity-Income)
-- [Digital Submission Only](https://github.com/Insured-Retirement-Institute/Digital-Submission-Only)
 - [Producer Inquiry](https://github.com/Insured-Retirement-Institute/Producer-Inquiry). This open standard is an alternative to the legacy CanSellAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy CanSellAPI specs.
 
 ## Standards governance 
