@@ -13,33 +13,31 @@ IRI welcomes and appreciates your contributions to our Digital-First for Annuity
 
 By submitting your contributions, you agree to these guidelines and warrant that your submission does not violate any intellectual property rights.
 
-## Get started
-
-We're only a few months old and just getting started. Several standards are in discussion right now. Please check back often for updates.
-
-The IRI's Digital First for Annuity standards strength comes from its community—dedicated individuals who invest their time and expertise to drive meaningful change. Whether you're a business stakeholder or technology developer, you are welcome to get invovled, contribute code, fix bugs, write documentation, and more.
-
 ## Specifications
 
 OpenAPI definitions can be found on the [GitHub Page](https://insured-retirement-institute.github.io/Style-Guide/) of the [Style Guide repository](https://github.com/Insured-Retirement-Institute/Style-Guide).
 
-Check out firm's implemenation plans and version of the Standards in the [Registry](https://insured-retirement-institute.github.io/Standard-Registry/).
-
 All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
 
 ### Active Specifications
-- [Application Status](https://github.com/Insured-Retirement-Institute/Application-Status). This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
-
+- [Application Status](https://insured-retirement-institute.github.io/Style-Guide/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
+- [Producer Training](https://insured-retirement-institute.github.io/Style-Guide/api-viewer.html?api=producertraining.yaml&version=v1)
+- [Visualizing Annuity Income](https://insured-retirement-institute.github.io/Style-Guide/api-viewer.html?api=policyincome.yaml&version=v1)
+  
 ### Specifications under development
-- [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
-- [Producer Training](https://github.com/Insured-Retirement-Institute/Producer-Training)
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
-- [Visualizing Annuity Income](https://github.com/Insured-Retirement-Institute/Visualizing-Annuity-Income)
-- [Producer Inquiry](https://github.com/Insured-Retirement-Institute/Producer-Inquiry). This open standard is an alternative to the legacy CanSellAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy CanSellAPI specs.
+- [One Time Withdrawals](https://github.com/Insured-Retirement-Institute/One-Time-Withdrawals)
+- [Systematic Program Setup](https://github.com/Insured-Retirement-Institute/Systematic-Program-Setup)
+- [Systematic Program Update](https://github.com/Insured-Retirement-Institute/Systematic-Program-Update)
+- [Policy Inquiry](https://github.com/Insured-Retirement-Institute/Policy-Inquiry)
+- [One Time Withdrawal Quote](https://github.com/Insured-Retirement-Institute/One-Time-Withdrawal-Quote)
+- [One Time Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
+- [Systematic Program Inquiry](https://github.com/Insured-Retirement-Institute/Systematic-Program-Inquiry)
+
 
 ## Standards governance 
 
-A request for a new standard or an update to the standard that will result in a minor or major revision must be submitted via a Business Case Template to hpikus@irionline.org and kdease@irionline.org. 
+A request for a new standard or an update to the standard that will result in a minor or major revision must be submitted via a Business Case Template to hpikus@irionline.org. 
 
 The Business Case must include: 
 - Experience Outcomes
@@ -51,7 +49,7 @@ The Business Case must include:
 
 <img width="1545" height="573" alt="image" src="https://github.com/user-attachments/assets/db4ddcda-2f8d-48c3-a7d6-3d6f35099c25" />
 
-Contact Kdease@irionline if you want to submit a standard for consideration or join any open discussion.
+Contact hpikus@irionline.org if you want to submit a standard for consideration or join any open discussion.
 
 ## How to engage, contribute, and give feedback
 
