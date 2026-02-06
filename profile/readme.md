@@ -15,14 +15,14 @@ By submitting your contributions, you agree to these guidelines and warrant that
 
 ## Specifications
 
-OpenAPI definitions can be found on the [GitHub Page](https://insured-retirement-institute.github.io/Style-Guide/) of the [Style Guide repository](https://github.com/Insured-Retirement-Institute/Style-Guide).
+The OpenAPI specifications can be found at [api.irionline.org](https://api.irionline.org), which is the published GitHub Page of the [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository.
 
 All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
 
 ### Active Specifications
-- [Application Status](https://insured-retirement-institute.github.io/Style-Guide/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
-- [Producer Training](https://insured-retirement-institute.github.io/Style-Guide/api-viewer.html?api=producertraining.yaml&version=v1)
-- [Visualizing Annuity Income](https://insured-retirement-institute.github.io/Style-Guide/api-viewer.html?api=policyincome.yaml&version=v1)
+- [Application Status](https://api.irionline.org/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
+- [Producer Training](https://api.irionline.org/api-viewer.html?api=producertraining.yaml&version=v1)
+- [Visualizing Annuity Income](https://api.irionline.org/api-viewer.html?api=policyincome.yaml&version=v1)
   
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
@@ -63,7 +63,7 @@ Anyone can submit an edit following the below process.
 
 ## Reporting security issues and bugs, and code of conduct
 
-Issues and bugs can be reported directly within the issues tab of each repository. See [style guide](https://github.com/Insured-Retirement-Institute/Style-Guide) for technical governance of standards, data dictionary, and the [code of conduct](https://github.com/Insured-Retirement-Institute/Style-Guide/blob/main/CODE_OF_CONDUCT.md). Change requests, both minor and major revisions should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
+Issues and bugs can be reported directly within the issues tab of each repository. See [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) for technical governance of standards, data dictionary, and the [code of conduct](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications/blob/main/CODE_OF_CONDUCT.md). Change requests, both minor and major revisions should follow the standards governance workflow outlined on the [main page](https://github.com/Insured-Retirement-Institute).
 
 ## Versioning
 
