@@ -15,14 +15,14 @@ By submitting your contributions, you agree to these guidelines and warrant that
 
 ## Specifications
 
-The OpenAPI specifications can be found at [api.irionline.org](https://api.irionline.org), which is the published GitHub Page of the [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository.
+The OpenAPI specifications can be found at [specs.dfa.irionline.org](https://specs.dfa.irionline.org/), which is the published GitHub Page of the [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository.
 
 All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
 
 ### Active Specifications
-- [Application Status](https://api.irionline.org/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
-- [Producer Training](https://api.irionline.org/api-viewer.html?api=producertraining.yaml&version=v1)
-- [Visualizing Annuity Income](https://api.irionline.org/api-viewer.html?api=policyincome.yaml&version=v1)
+- [Application Status](https://specs.dfa.irionline.org/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
+- [Producer Training](https://specs.dfa.irionline.org/api-viewer.html?api=producertraining.yaml&version=v1)
+- [Visualizing Annuity Income](https://specs.dfa.irionline.org/api-viewer.html?api=policyincome.yaml&version=v1)
   
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
