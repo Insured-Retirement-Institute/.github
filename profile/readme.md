@@ -23,14 +23,14 @@ All standards have a corresponding repository where work in progress documentati
 - [Application Status](https://specs.dfa.irionline.org/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
 - [Producer Training](https://specs.dfa.irionline.org/api-viewer.html?api=producertraining.yaml&version=v1)
 - [Visualizing Annuity Income](https://specs.dfa.irionline.org/api-viewer.html?api=policyincome.yaml&version=v1)
-  
-### Specifications under development
-- [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [One Time Withdrawals](https://github.com/Insured-Retirement-Institute/One-Time-Withdrawals)
 - [Systematic Program Setup](https://github.com/Insured-Retirement-Institute/Systematic-Program-Setup)
 - [Systematic Program Update](https://github.com/Insured-Retirement-Institute/Systematic-Program-Update)
-- [Policy Inquiry](https://github.com/Insured-Retirement-Institute/Policy-Inquiry)
 - [One Time Withdrawal Quote](https://github.com/Insured-Retirement-Institute/One-Time-Withdrawal-Quote)
+
+### Specifications under development
+- [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
+- [Policy Inquiry](https://github.com/Insured-Retirement-Institute/Policy-Inquiry)
 - [One Time Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
 - [Systematic Program Inquiry](https://github.com/Insured-Retirement-Institute/Systematic-Program-Inquiry)
 
