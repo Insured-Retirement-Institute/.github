@@ -70,6 +70,3 @@ Each version will follow the naming convention Major.Minor.Patch
 - Major: Add incompatible API changes
 - Minor: Add functionality in a backward compatible manner
 - Patch: Backward compatible bug fixes
-
-## Archive
-- [Hackathon Logistics](https://github.com/Insured-Retirement-Institute/Hackathon)
