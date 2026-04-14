@@ -36,7 +36,9 @@ All standards have a corresponding repository where work **in progress** documen
 
 ## Standards governance 
 
-A request for a new standard or an update to the standard that will result in a minor or major revision must be submitted via a Business Case Template to hpikus@irionline.org. 
+Please review the [Digital First for Annuities Standards Playbook](https://www.irionline.org/operations-and-technology/article/digital-first-for-annuities-standards-playbook/) for a structured framework for creation, governance, and implementation of industry-wide standards and best practices. 
+
+A request for a new standard or an update to the standard that will result in a minor or major revision must be submitted via the [DFA Business Case](https://forms.office.com/r/cJhKbAUZUF).
 
 The Business Case must include: 
 - Experience Outcomes
