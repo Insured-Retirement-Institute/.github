@@ -46,9 +46,6 @@ The Business Case must include:
 - Use Cases
 - Points of Integration
 - Firms needed to be able to send and receive the data (Distributor, Carrier, Solution Provider...)
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c1a970d4-f101-4805-b86e-29633cf116a6" />
-
-<img width="1545" height="573" alt="image" src="https://github.com/user-attachments/assets/db4ddcda-2f8d-48c3-a7d6-3d6f35099c25" />
 
 Contact hpikus@irionline.org if you want to submit a standard for consideration or join any open discussion.
 
