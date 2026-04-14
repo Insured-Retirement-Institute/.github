@@ -1,8 +1,6 @@
 # Welcome to the IRI Digital First for Annuity Standards!
 
-Are you passionate about driving technology, innovation, and collaboration for the insurance industry? Then welcome to the official GitHub page of the Insured Retirement Institute's Digital First for Annuity Standards! We're exicited to be building an open-source framework for API standardization across the annuity insurance industry, and welcome you joining us on that journey.
-
-IRI is dedicated to fostering the creation of exceptional experiences for the insurance industry. Industry leaders participate to implement strategies that transform both financial professional and consumer experiences. This community fosters adopting Digital First for Annuities standards to unlock business growth opportunities and mitigate future risks. 
+This repository supports the Insured Retirement Institute (IRI) Digital First for Annuity Standards initiative. The goal is to develop open, industry-aligned API standards for the annuity ecosystem. Annuity industry participants collaborate here to define, review, and improve standards that support more consistent and efficient data exchange.
 
 IRI welcomes and appreciates your contributions to our Digital-First for Annuity Standards initiative, open to industry participants for API standardization across the annuity insurance industry. To help us respect the intellectual property rights of others, please adhere to the following guidelines:
 1.	Original Work: Ensure that all code, documentation, and other materials you submit are your original work. Do not include or use any content that is owned by others without proper authorization.
@@ -17,22 +15,23 @@ By submitting your contributions, you agree to these guidelines and warrant that
 
 The OpenAPI specifications can be found at [specs.dfa.irionline.org](https://specs.dfa.irionline.org/), which is the published GitHub Page of the [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository.
 
-All standards have a corresponding repository where work in progress documentation lives as the standards are being developed.
+All standards have a corresponding repository where work **in progress** documentation lives as the standards are being developed.
 
 ### Active Specifications
 - [Application Status](https://specs.dfa.irionline.org/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
 - [Producer Training](https://specs.dfa.irionline.org/api-viewer.html?api=producertraining.yaml&version=v1)
-- [Visualizing Annuity Income](https://specs.dfa.irionline.org/api-viewer.html?api=policyincome.yaml&version=v1)
-- [One Time Withdrawals](https://github.com/Insured-Retirement-Institute/One-Time-Withdrawals)
-- [Systematic Program Setup](https://github.com/Insured-Retirement-Institute/Systematic-Program-Setup)
-- [Systematic Program Update](https://github.com/Insured-Retirement-Institute/Systematic-Program-Update)
-- [One Time Withdrawal Quote](https://github.com/Insured-Retirement-Institute/One-Time-Withdrawal-Quote)
+- [Active Annuity Income](https://specs.dfa.irionline.org/api-viewer.html?api=policyincome.yaml&version=v1)
+- [One Time Withdrawals](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawal1.yaml&version=v1)
+- [Systematic Program Setup](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramsetup.yaml&version=v1)
+- [Systematic Program Update](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramupdate.yaml&version=v1)
+- [One Time Withdrawal Quote](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawalquote1.yaml&version=v1)
 
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [Policy Inquiry](https://github.com/Insured-Retirement-Institute/Policy-Inquiry)
 - [One Time Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
 - [Systematic Program Inquiry](https://github.com/Insured-Retirement-Institute/Systematic-Program-Inquiry)
+- [Rates](https://github.com/Insured-Retirement-Institute/Rates)
 
 
 ## Standards governance 
