@@ -22,9 +22,10 @@ All standards have a corresponding repository where work **in progress** documen
 - [Producer Training](https://specs.dfa.irionline.org/api-viewer.html?api=producertraining.yaml&version=v1)
 - [Activated Annuity Income](https://specs.dfa.irionline.org/api-viewer.html?api=activatedannuityincome.yaml&version=v1)
 - [One Time Withdrawals](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawal1.yaml&version=v1)
+- [One Time Withdrawal Quote](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawalquote1.yaml&version=v1)
 - [Systematic Program Setup](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramsetup.yaml&version=v1)
 - [Systematic Program Update](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramupdate.yaml&version=v1)
-- [One Time Withdrawal Quote](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawalquote1.yaml&version=v1)
+- [Paperless Replacements](https://specs.dfa.irionline.org/api-viewer.html?api=paperlessreplacements1.yaml&version=v1)
 
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
@@ -32,6 +33,7 @@ All standards have a corresponding repository where work **in progress** documen
 - [One Time Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
 - [Systematic Program Inquiry](https://github.com/Insured-Retirement-Institute/Systematic-Program-Inquiry)
 - [Rates](https://github.com/Insured-Retirement-Institute/Rates)
+- [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 
 
 ## Standards governance 
