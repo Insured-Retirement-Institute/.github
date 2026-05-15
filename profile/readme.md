@@ -30,8 +30,7 @@ All standards have a corresponding repository where work **in progress** documen
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [Policy Inquiry](https://github.com/Insured-Retirement-Institute/Policy-Inquiry)
-- [One Time Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
-- [Systematic Program Inquiry](https://github.com/Insured-Retirement-Institute/Systematic-Program-Inquiry)
+- [Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
 - [Rates](https://github.com/Insured-Retirement-Institute/Rates)
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 
