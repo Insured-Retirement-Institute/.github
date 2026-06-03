@@ -19,6 +19,7 @@ All standards have a corresponding repository where work **in progress** documen
 
 ### Active Specifications
 - [Application Status](https://specs.dfa.irionline.org/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
+- [Application Status Push Notifications](https://specs.dfa.irionline.org/api-viewer.html?api=appstatuspushNotifications1.yaml&version=v1)
 - [Producer Training](https://specs.dfa.irionline.org/api-viewer.html?api=producertraining.yaml&version=v1)
 - [Activated Annuity Income](https://specs.dfa.irionline.org/api-viewer.html?api=activatedannuityincome.yaml&version=v1)
 - [One Time Withdrawals](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawal1.yaml&version=v1)
@@ -26,8 +27,8 @@ All standards have a corresponding repository where work **in progress** documen
 - [Systematic Program Setup](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramsetup.yaml&version=v1)
 - [Systematic Program Update](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramupdate.yaml&version=v1)
 - [Paperless Replacements](https://specs.dfa.irionline.org/api-viewer.html?api=paperlessreplacements1.yaml&version=v1)
-- [Policy Inquiry](https://github.com/Insured-Retirement-Institute/Policy-Inquiry)
-- [Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
+- [Policy Inquiry](https://specs.dfa.irionline.org/api-viewer.html?api=policyinquiry.yaml&version=v1)
+- [Fund Transfer](https://specs.dfa.irionline.org/api-viewer.html?api=fundtransfer.yaml&version=v1)
 
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
