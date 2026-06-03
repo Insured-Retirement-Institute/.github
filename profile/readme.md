@@ -26,11 +26,11 @@ All standards have a corresponding repository where work **in progress** documen
 - [Systematic Program Setup](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramsetup.yaml&version=v1)
 - [Systematic Program Update](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramupdate.yaml&version=v1)
 - [Paperless Replacements](https://specs.dfa.irionline.org/api-viewer.html?api=paperlessreplacements1.yaml&version=v1)
+- [Policy Inquiry](https://github.com/Insured-Retirement-Institute/Policy-Inquiry)
+- [Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
 
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
-- [Policy Inquiry](https://github.com/Insured-Retirement-Institute/Policy-Inquiry)
-- [Fund Transfer](https://github.com/Insured-Retirement-Institute/One-Time-Fund-Transfer)
 - [Rates](https://github.com/Insured-Retirement-Institute/Rates)
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 
