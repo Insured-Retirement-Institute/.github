@@ -34,6 +34,7 @@ All standards have a corresponding repository where work **in progress** documen
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [Rates](https://github.com/Insured-Retirement-Institute/Rates)
 - [Beneficiary Management](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
+- [Book of Business](https://github.com/Insured-Retirement-Institute/Book-of-Business)
 
 
 ## Standards governance 
