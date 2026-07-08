@@ -52,6 +52,10 @@ The Business Case must include:
 
 Contact hpikus@irionline.org if you want to submit a standard for consideration or join any open discussion.
 
+## Standards Authority Spectrum
+<img width="937" height="1066" alt="Standard Authority" src="https://github.com/user-attachments/assets/304b43b3-a324-44af-b6e8-380f38e02dae" />
+
+
 ## How to engage, contribute, and give feedback
 
 Patches, and Minor and Major edits will be handled with versioning.  Minor and Major edits and will go through the Strategy Implementation Committee for awareness, consideration, and if the business case is approved the working group will manage the request and it will follow the existing governance process. Patches will be evaluated within thge Governance Subcommittee and brought to the Strategy Implementation Committee if broader discussion is needed.
