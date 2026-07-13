@@ -52,6 +52,8 @@ The Business Case must include:
 - Points of Integration
 - Firms needed to be able to send and receive the data (Distributor, Carrier, Solution Provider...)
 
+Please view [Proposing a New Standard](https://view.monday.com/18182102678-0673f5e07e3a323d7f5a6a67b3071c4d?r=use1) for more details.
+
 Contact hpikus@irionline.org if you want to submit a standard for consideration or join any open discussion.
 
 ## Standards Authority Spectrum
