@@ -29,11 +29,11 @@ All standards have a corresponding repository where work **in progress** documen
 - [Paperless Replacements](https://specs.dfa.irionline.org/api-viewer.html?api=paperlessreplacements1.yaml&version=v1)
 - [Policy Inquiry](https://specs.dfa.irionline.org/api-viewer.html?api=policyinquiry.yaml&version=v1)
 - [Fund Transfer](https://specs.dfa.irionline.org/api-viewer.html?api=fundtransfer.yaml&version=v1)
+- [Beneficiary Replacement](https://specs.dfa.irionline.org/api-viewer.html?api=beneficiaryreplacement&version=v1)
 
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [Rates](https://github.com/Insured-Retirement-Institute/Rates)
-- [Beneficiary Replacement](https://github.com/Insured-Retirement-Institute/Beneficiary-Management)
 - [Book of Business](https://github.com/Insured-Retirement-Institute/Book-of-Business)
 
 
