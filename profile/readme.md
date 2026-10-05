@@ -11,6 +11,14 @@ IRI welcomes and appreciates your contributions to our Digital-First for Annuity
 
 By submitting your contributions, you agree to these guidelines and warrant that your submission does not violate any intellectual property rights.
 
+## Guiding Principles
+- Scalable, Build Once – Use Many: Design once and deploy across multiple products, channels, and use cases.
+- Real-time enabled: Support instant access to data. Pull and send only the data you need, no massive for a handful of cases
+- Open standards: Freely accessible, membership-free standards ensure broad adoption and scalability.
+- Industry Owned: There can be no Intellectual Property (IP) claim on the standards. The industry is defining the standards, owns the standards, and has free rights to use them as they need.
+- Lightweight, purpose-driven: Deliver only what’s needed, no extra data or unnecessary complexity.
+- Easy to implement: Clear, intuitive messages reduce time-to-market and development cost.
+
 ## Specifications
 
 The OpenAPI specifications can be found at [specs.dfa.irionline.org](https://specs.dfa.irionline.org/), which is the published GitHub Page of the [Digital-First-Specifications](https://github.com/Insured-Retirement-Institute/Digital-First-Specifications) repository.
