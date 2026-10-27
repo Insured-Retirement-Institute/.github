@@ -26,23 +26,26 @@ The OpenAPI specifications can be found at [specs.dfa.irionline.org](https://spe
 All standards have a corresponding repository where work **in progress** documentation lives as the standards are being developed.
 
 ### Active Specifications
-- [Application Status](https://specs.dfa.irionline.org/api-viewer.html?api=appstatus.yaml&version=v2) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
-- [Application Status Push Notifications](https://specs.dfa.irionline.org/api-viewer.html?api=appstatuspushNotifications1.yaml&version=v1)
+- [Application Status](https://specs.dfa.irionline.org/api-viewer.html?api=appstatus&version=v4) This open standard is an alternative to the legacy ActivityStatusAPI specs owned and managed by ACORD. Please contact ACORD for implementation details regarding the legacy ActivityStatusAPI specs.
+- [Application Status Push Notifications](https://specs.dfa.irionline.org/api-viewer.html?api=appstatuspushNotifications&version=v2)
 - [Producer Training](https://specs.dfa.irionline.org/api-viewer.html?api=producertraining.yaml&version=v1)
 - [Activated Annuity Income](https://specs.dfa.irionline.org/api-viewer.html?api=activatedannuityincome.yaml&version=v1)
-- [One Time Withdrawals](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawal1.yaml&version=v1)
-- [One Time Withdrawal Quote](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawalquote1.yaml&version=v1)
-- [Systematic Program Setup](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramsetup.yaml&version=v1)
-- [Systematic Program Update](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramupdate.yaml&version=v1)
+- [One Time Withdrawals](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawal&version=v2)
+- [One Time Withdrawal Quote](https://specs.dfa.irionline.org/api-viewer.html?api=onetimewithdrawalquote&version=v2)
+- [Systematic Program Setup](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramsetup&version=v2)
+- [Systematic Program Update](https://specs.dfa.irionline.org/api-viewer.html?api=systematicwithdrawalprogramupdate&version=v2)
 - [Paperless Replacements](https://specs.dfa.irionline.org/api-viewer.html?api=paperlessreplacements1.yaml&version=v1)
-- [Policy Inquiry](https://specs.dfa.irionline.org/api-viewer.html?api=policyinquiry.yaml&version=v1)
-- [Fund Transfer](https://specs.dfa.irionline.org/api-viewer.html?api=fundtransfer.yaml&version=v1)
+- [Policy Inquiry](https://specs.dfa.irionline.org/api-viewer.html?api=policyinquiry&version=v2)
+- [Fund Transfer](https://specs.dfa.irionline.org/api-viewer.html?api=fundtransfer&version=v2)
 - [Beneficiary Replacement](https://specs.dfa.irionline.org/api-viewer.html?api=beneficiaryreplacement&version=v1)
 
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [Rates](https://github.com/Insured-Retirement-Institute/Rates)
 - [Book of Business](https://github.com/Insured-Retirement-Institute/Book-of-Business)
+- [Arrangements](https://github.com/Insured-Retirement-Institute/Arrangements)
+- [Paperless Replacements Phase 2](https://github.com/Insured-Retirement-Institute/Paperless-Replacement-Phase-2)
+- [Non-Financial Transactions](https://github.com/Insured-Retirement-Institute/Non-Financial-Transactions)
 
 
 ## Standards governance 
