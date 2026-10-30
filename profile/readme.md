@@ -41,7 +41,7 @@ All standards have a corresponding repository where work **in progress** documen
 
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
-- [Rates](https://github.com/Insured-Retirement-Institute/Rates)
+- [New Business and Renewal Rates](https://github.com/Insured-Retirement-Institute/New-Business-and-Renewal-Rates)
 - [Book of Business](https://github.com/Insured-Retirement-Institute/Book-of-Business)
 - [Arrangements](https://github.com/Insured-Retirement-Institute/Arrangements)
 - [Paperless Replacements Phase 2](https://github.com/Insured-Retirement-Institute/Paperless-Replacement-Phase-2)
