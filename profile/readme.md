@@ -38,6 +38,7 @@ All standards have a corresponding repository where work **in progress** documen
 - [Policy Inquiry](https://specs.dfa.irionline.org/api-viewer.html?api=policyinquiry&version=v2)
 - [Fund Transfer](https://specs.dfa.irionline.org/api-viewer.html?api=fundtransfer&version=v2)
 - [Beneficiary Replacement](https://specs.dfa.irionline.org/api-viewer.html?api=beneficiaryreplacement&version=v1)
+- [Document Processing](https://specs.dfa.irionline.org/api-viewer.html?api=documentprocessing&version=v1)
 
 ### Specifications under development
 - [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
