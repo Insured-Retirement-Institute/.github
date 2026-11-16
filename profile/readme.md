@@ -41,7 +41,7 @@ All standards have a corresponding repository where work **in progress** documen
 - [Document Processing](https://specs.dfa.irionline.org/api-viewer.html?api=documentprocessing&version=v1)
 
 ### Specifications under development
-- [Ceding Carrier Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
+- [Ceding Data](https://github.com/Insured-Retirement-Institute/Ceding-Carrier-Data)
 - [New Business and Renewal Rates](https://github.com/Insured-Retirement-Institute/New-Business-and-Renewal-Rates)
 - [Book of Business](https://github.com/Insured-Retirement-Institute/Book-of-Business)
 - [Arrangements](https://github.com/Insured-Retirement-Institute/Arrangements)
